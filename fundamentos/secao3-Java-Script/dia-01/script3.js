@@ -1,6 +1,6 @@
 let a = 30;
 let b = 15;
-let c = 22;
+let c = 50;
 if(a > b && a > c){
     console.log(a);
 }else if(b > a && b > c){
@@ -8,5 +8,6 @@ if(a > b && a > c){
 }else{
     console.log(c);
 }
+
 
 
